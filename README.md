@@ -1,2 +1,2 @@
 # CellCountdown
-多个cell进行倒计时，可以单个进行暂停
+自动加载数据时，uitableViewcell会自动上浮，将最新的数据始终保持在下面一行
